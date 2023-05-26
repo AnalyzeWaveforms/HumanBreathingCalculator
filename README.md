@@ -27,11 +27,9 @@ Sex (either 'male' or 'female')
 Respiratory rate (breaths per minute)
 The simulator will then calculate and display the ideal body weight, tidal volume, and minute ventilation based on these parameters.
 
-Demonstration
+## Demonstration
 Here is a sample of the output you can expect from the program:
 
-bash
-Copy code
 Enter your height in inches: 70
 Enter your age in years: 30
 Enter your sex (male/female): male
@@ -48,8 +46,14 @@ Your minute ventilation is: 7.2 L/min
 
 Calculating your normal minute ventilation range...
 Your normal minute ventilation range is: 4.6 - 10.2 L/min
+
+---
+
 Contributing
+
 We welcome contributions to the Human Breathing Simulator! Please feel free to submit a pull request or open an issue on GitHub.
+
+
 
 License
 This project is licensed under the MIT License.
