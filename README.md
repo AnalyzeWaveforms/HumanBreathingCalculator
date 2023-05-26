@@ -30,10 +30,14 @@ The simulator will then calculate and display the ideal body weight, tidal volum
 ## Demonstration
 Here is a sample of the output you can expect from the program:
 
+---
+
 Enter your height in inches: 70
 Enter your age in years: 30
 Enter your sex (male/female): male
 Enter your respiratory rate (breaths per minute): 15
+
+---
 
 Calculating your ideal body weight...
 Your ideal body weight is: 63.7 kg
