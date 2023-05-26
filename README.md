@@ -22,9 +22,12 @@ python run_simulation.py
 When running the simulator, you will be prompted to input:
 
 Height (in inches)
+
 Age (in years)
 Sex (either 'male' or 'female')
+
 Respiratory rate (breaths per minute)
+
 The simulator will then calculate and display the ideal body weight, tidal volume, and minute ventilation based on these parameters.
 
 ## Demonstration
